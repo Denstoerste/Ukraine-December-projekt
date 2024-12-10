@@ -5,7 +5,7 @@ dotenv.config();
 const connection = mysql.createConnection({
     host: "localhost",
     user: "root",
-    password: "xhb36nba",
+    password: process.env.DBPASSWORD,
     database: "ukraine_facebook_data"
 });
 
