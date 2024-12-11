@@ -1,22 +1,33 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>UkraineDecember</title>
-
-
-    <link rel="stylesheet" href="style.css">
-
-
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ukraine War Data Tracker</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+<header>
+    <h1>Ukraine War Data Tracker</h1>
+    <p>Real-time data from global online activity.</p>
+</header>
 
+<main>
+    <section id="summary">
+        <h2>Data Overview</h2>
+        <div id="summaryContent">Loading...</div>
+    </section>
 
-<p>HUSK NU AT "UPDATE PROJECT" HVER GANG I ÅBNER, OG COMMIT/PUSH HVER GANG I HAR ÆNDRET NOGET.</p>
+    <section id="chart">
+        <h2>Reactions Over Time</h2>
+        <canvas id="dataChart"></canvas>
+    </section>
+</main>
 
 
 
 <script src="main.js"></script>
+<script src=""></script>
+<script src="../Backend/server.js"></script>
 </body>
 </html>
