@@ -23,14 +23,14 @@ app.get('/api/weeklyData', async (req, res) => {
         const connection = await mysql.createConnection(dbConfig);
         const query = `
             SELECT
-                DATE_FORMAT(time.date, '%Y-%u') AS week,
-                SUM(metrics.reactions) AS totalReactions,
-                SUM(metrics.comments) AS totalComments,
-                SUM(metrics.shares) AS totalShares
-            FROM time
-                     JOIN metrics ON time.id = metrics.time_id
-            GROUP BY week
-            ORDER BY week;
+    DATE_FORMAT(time.date, '%Y-%u') AS week, 
+    SUM(metrics.reactions) AS totalReactions,
+    SUM(metrics.comments) AS totalComments,
+    SUM(metrics.shares) AS totalShares
+FROM time
+JOIN metrics ON time.ccpost_id = metrics.ccpost_id
+GROUP BY week
+ORDER BY week;
         `;
         const [rows] = await connection.query(query);
         await connection.end();
@@ -44,3 +44,4 @@ app.get('/api/weeklyData', async (req, res) => {
 // Start Server
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => console.log(`Server running on http://localhost:${PORT}`));
+console.log('DB Config:', dbConfig);
