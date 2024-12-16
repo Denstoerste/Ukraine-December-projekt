@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Facebook Data Analysis</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/wordcloud@1.2.2/src/wordcloud2.js"></script>
+    <style>
+        #events-container {
+            display: flex;
+            justify-content: space-between; /* Space evenly between the two lists */
+            flex-wrap: wrap;
+            width: 100%;
+            margin: 20px auto;
+            text-align: left;
+        }
+
+        #events-container div {
+            width: 45%; /* Each list takes up 45% of the screen */
+            margin: 10px;
+            padding: 10px;
+            box-sizing: border-box;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            background-color: #fff;
+        }
+
+        #events-container h3 {
+            text-align: center;
+            font-size: 1.2rem;
+            margin-bottom: 10px;
+        }
+
+        #events-container ul {
+            padding-left: 20px; /* Proper list indentation */
+            line-height: 1.5;
+            font-size: 0.9rem;
+            margin: 0;
+            list-style-type: disc; /* Use bullet points for better readability */
+        }
+
+        @media (max-width: 768px) {
+            #events-container {
+                flex-direction: column; /* Stack lists vertically on smaller screens */
+            }
+
+            #events-container div {
+                width: 90%; /* Use more space for smaller screens */
+                margin: 10px auto;
+            }
+        }
+        #tabs {
+            display: flex;
+            justify-content: center;
+            margin: 20px 0;
+        }
+
+        .tab {
+            padding: 10px 20px;
+            cursor: pointer;
+            background: #ddd;
+            margin: 0 5px;
+            border-radius: 5px;
+            transition: background 0.3s, color 0.3s;
+        }
+
+        .tab.active {
+            background: #54a0ff;
+            color: #fff;
+            font-weight: bold;
+        }
+
+        .tab:hover {
+            background: #82caff;
+            color: #fff;
+        }
+
+    </style>
+</head>
+<body>
+<h1>Facebook Data Analysis</h1>
+
+<!-- Tabs -->
+<div id="tabs">
+    <div class="tab active" onclick="switchTab(0)">Original Timeline</div>
+    <div class="tab" onclick="switchTab(1)">Combined Timeline</div>
+</div>
+
+<!-- Chart Container and Event Lists -->
+<div id="chart-container">
+    <canvas id="interactionChart"></canvas>
+    <div id="events-container">
+        <div style="display: flex; justify-content: space-around;">
+            <div>
+                <h3>Global Events</h3>
+                <ul id="global-events"></ul>
+            </div>
+            <div>
+                <h3>Ukraine War Events</h3>
+                <ul id="ukraine-events"></ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Word Cloud Container -->
+<div id="word-cloud-container" style="width: 400px; height: 400px; margin: auto;"></div>
+
+<script src="chart.js"></script>
+</body>
+</html>
