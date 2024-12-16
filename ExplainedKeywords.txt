@@ -1,0 +1,964 @@
+
+ukra (Relates to "Ukraine") - 9294
+krieg (German: "war") - 8962
+politik (German: "politics") - 5363
+www (Web term) - 7924
+sky (Common surname suffix in Slavic languages) - 4380
+lü (Possibly related to "Lüge" - "lie" in German) - 4319
+lieferung (German: "delivery" or "supply") - 2305
+krise (German: "crisis") - 2149
+bundes (German: Relating to "federal" as in "Bundesregierung" - federal government) - 2067
+daten (German: "data") - 2054
+hilfe (German: "help" or "assistance") - 2019
+minister (German/English: "minister" - often government role) - 2006
+europe (English/French: "Europe") - 1996
+rü (Possibly related to "Rüstung" - "armament" in German) - 1887
+preis (German: "price" or "prize") - 1878
+stand (German: "stand" / "position" / "state") - 1917
+fra (Could relate to "Frau" - "woman" in German) - 1913
+armée (French: "army") - 1809
+laf (Possibly related to "Olaf" - a name, or "Laufen" - "to run" in German) - 1790
+schuss (German: "shot" or "committee") - 1767
+recht (German: "right" or "law") - 3498
+land (German/English: "land" or "country") - 3400
+rus (Short form for "Russia" or "Russian") - 3385
+kan (Can relate to "Kanada" (Canada) or Turkish "kan" meaning "blood") - 2610
+sland (Possibly part of "Island" or "Russland" (Iceland or Russia)) - 2544
+org (Common suffix for websites/NGOs) - 2520
+tag (German: "day" or could be a "tag" in the social media sense) - 3112
+tine (Possibly related to "Palestine" or "quarantine") - 2324
+lieferung (German: "supply" or "delivery") - 2305
+ko (Can relate to "company" (short for "co.") or "Korea") - 2217
+elle (French: "she" or part of names like "Gazelle" or "Nouvelle") - 2156
+ian (Suffix for nationality (like "Ukrainian")) - 2124
+ant (Suffix indicating a person/agent, e.g., "immigrant") - 2110
+ody (English suffix, e.g., "somebody" or "nobody") - 2088
+daten (German: "data") - 2054
+minister (English/German: "minister" or "government official") - 2006
+europe (English/French: "Europe") - 1996
+bit (English: Could relate to "bit" as in computing or "a little bit") - 2393
+ung (While normally a suffix, it could be part of "Verfügung" - "provision" or "Kundgebung" - "demonstration") - 7032
+schuss (German: "shot" or "committee") - 1767
+fra (Possibly related to "Frau" - "woman" or "France") - 1913
+he (Could be part of "he/him" pronoun in English) - 1814
+die (German: Definite article "the" (feminine/plural), but could also relate to English "die" as in death) - 1872
+wa (Could relate to "war" or "Washington") - 1860
+rus (Short for "Russia") - 2705
+stand (German: "position" or "state") - 1917
+sion (Suffix for nouns like "tension" or "division" - meaningful) - 4806
+html (Web development term) - 3274
+ation (Suffix but often forms nouns like "migration" or "foundation") - 3264
+tag (German: "day" or a social media tag) - 3112
+politk (German: "politics") - 5363
+dat (Part of "Data" in multiple languages) - 2054
+hilfe (German: "help" or "assistance") - 2019
+wa (Could relate to "war" or abbreviation for "Washington") - 1860
+des (French: "of the" or German: genitive article) - 1757
+sk (Suffix found in Slavic names like "Donskoy" or "Lukashenk") - 2645
+ger (Could relate to "Germany" or "warrior" (from "Krieger" in German)) - 2423
+bit (Possible tech context, like "binary digit" (bit)) - 2393
+wehr (German: "defense" or "armed forces") - 2774
+org (Common domain suffix) - 2520
+tag (German: "day" or social media "tag") - 3112
+za (Possibly Slavic name suffix) - 4419
+chen (Possibly German diminutive suffix but also a standalone term) - 2431
+mpf (German: Abbreviation for "Kampf" - "battle" or "struggle") - 2605
+rü (Possibly related to "Rüstung" - "armament" in German) - 1887
+fra (Possibly "Frau" - "woman" or "France") - 1913
+minister (English/German: "minister") - 2006
+dan (Could relate to "Denmark" or a name like "Dan") - 2505
+rus (Reference to "Russia") - 3385
+fer (Could relate to "transfer" or "offer") - 1969
+ken (Part of "token" or "taken") - 1858
+ram (Could relate to "RAM" (memory) or abbreviation) - 2100
+land (English/German: "land" or "country") - 3400
+fra (Could be "France" or "Frau" (woman)) - 1913
+une (French: "one" or part of "commune") - 2615
+ht (Common in "light" or "fight") - 1828
+ta (Possible reference to "data" or part of "tableau") - 1803
+führer (German: "leader" or "guide") - 1862
+za (Possible Slavic suffix) - 4419
+fra (Could relate to "France" or "Frau" (woman)) - 1913
+lieferung (German: "supply" or "delivery") - 2305
+krise (German: "crisis") - 2149
+rus (Short for "Russia" or "Russian") - 2705
+wehr (German: "defense" or "armed forces") - 2774
+org (Common domain suffix for websites/NGOs) - 2520
+que (French: "that" or "which" but also part of "question") - 2590
+kan (Could relate to "Kanada" (Canada) or Turkish "kan" meaning "blood") - 2610
+sland (Possibly related to "Russland" (Russia) or "Island" (Iceland)) - 2544
+ger (Could relate to "Germany" or "warrior" (from "Krieger" in German)) - 2423
+bit (Could relate to "bit" (binary digit) in computing or "a little bit") - 2393
+tine (Possibly related to "Palestine" or "quarantine") - 2324
+ité (French suffix, but also could be linked to nouns like "égalité" (equality)) - 2324
+ra (Possibly part of "Russia", "radiation", or "Palestina") - 2307
+ko (Could relate to "company" (Co.), "Korea", or be part of names like "KyivPost.co") - 2217
+fen (German: "ferry" or "port", e.g., "Hafen" = "harbor") - 2167
+elle (French: "she" or could be part of "Gazelle" or "Nouvelle") - 2156
+ian (Suffix used for nationality or affiliation, like "Ukrainian") - 2124
+ant (Suffix, but can also denote a person or entity, e.g., "immigrant") - 2110
+sive (Suffix, but often part of words like "offensive" or "massive") - 2142
+krise (German: "crisis") - 2149
+igung (German suffix, but in context, part of "Einigung" = "agreement" or "Abschiebung" = "deportation") - 2127
+cher (German suffix but also could be part of "Sprecher" = "speaker" or "Forscher" = "researcher") - 2965
+bit (Could relate to "binary digit" (bit) in computing) - 2393
+my (English: "my", or a prefix in "myth", "mystery", etc.) - 2975
+ze (Possibly related to "Ze" (Ukrainian short form for Zelenskyy) or part of "zeit" (time) in German) - 2972
+com (Common domain suffix) - 2938
+ar (Could be part of "Arab", "war", or the ending of some words like "popular") - 2904
+ew (Possibly "news" or part of "review") - 2900
+ert (German: "value" or part of "bewertet" = "evaluated") - 2885
+ens (German plural suffix but also part of "Menschen" = "people") - 2884
+ée (French suffix but also part of "armée" = "army" or "idée" = "idea") - 2880
+aus (German: "out" or "from") - 2869
+tions (Suffix but often part of words like "nations" or "actions") - 2869
+sen (Possibly part of "senior" or "sentence") - 2858
+li (Could relate to "Lithuania" (country code) or part of "liberty") - 2820
+me (French: "me" (pronoun) or "maison" (house) or part of "meme") - 2811
+ber (Could be part of "November" or "Berliner" (from Berlin)) - 2792
+la (French: "the" (feminine) or could relate to "LA" (Los Angeles)) - 2742
+ierung (German suffix, but in context often part of "Regierung" = "government" or "Forderung" = "demand") - 2723
+tung (German suffix, but in context part of "Zeitung" = "newspaper" or "Achtung" = "attention") - 2713
+ker (Part of "worker", "speaker", or "Weltverkehr" = "world traffic" in German) - 2711
+sk (Slavic suffix, found in surnames like "Donskoy") - 2645
+une (French: "one" or could relate to "commune" = "community") - 2615
+mpf (German: Relates to "Kampf" = "fight" or "battle") - 2605
+heit (German suffix but also part of "Freiheit" = "freedom" or "Einheit" = "unity") - 2530
+vor (German: "before" or "in front of") - 2526
+ern (Suffix but also part of "modern" or "intern" (like internment)) - 2505
+chen (German diminutive suffix but also part of "Mädchen" = "girl") - 2431
+ppen (German: part of "Truppen" = "troops" or "Gruppen" = "groups") - 2428
+tä (Possibly part of "Täter" = "perpetrator" in German) - 2400
+ungs (German suffix but also part of "Bewegungsfreiheit" = "freedom of movement") - 2392
+tine (Relates to "Palestine" or "quarantine") - 2324
+ig (German suffix, but also used in "König" = "king" or "richtig" = "correct") - 2366
+ra (Possibly related to "Russia", "radiation", or "Palestina") - 2307
+ige (German suffix but also part of "einige" = "some" or "andere" = "other") - 2268
+ti (Suffix, but could be part of "anti-" or "ti" as in "time") - 2239
+ko (Could relate to "company" (Co.), "Korea", or names like "KyivPost.co") - 2217
+fen (German: "ferry" or "port", e.g., "Hafen" = "harbor") - 2167
+elle (French: "she" or could be part of "Gazelle" or "Nouvelle") - 2156
+ischer (German suffix but also part of "Fischer" = "fisher" or "polnischer" = "Polish") - 2148
+igung (German suffix, but in context, part of "Einigung" = "agreement" or "Abschiebung" = "deportation") - 2127
+Bundes (German: "federal", e.g., "Bundesregierung" = "federal government") - 2067
+daten (German: "data") - 2054
+hilfe (German: "help" or "assistance") - 2019
+minister (German/English: "minister", a government role) - 2006
+Europe (English/French: "Europe") - 1996
+fer (Could relate to "transfer" or "offer") - 1969
+mpel (Part of "Ampel" (German: "traffic light") but may relate to politics as in "Ampel-Koalition" = "traffic light coalition" in German politics) - 1937
+Stand (German: "position" or "state" of something) - 1917
+fra (Could relate to "Frau" = "woman" in German, or "France") - 1913
+rü (Possibly part of "Rüstung" = "armament" or "Rück" = "return" in German) - 1887
+preis (German: "price" or "prize") - 1878
+wa (Could relate to "war" or abbreviation for "Washington") - 1860
+ken (Part of "token" or "taken" or the German "kennen" = "to know") - 1858
+fr (Could relate to "France" or "FR" (country code for France)) - 1849
+ren (Could be part of "children" or "renovation", or German "Rennen" = "race") - 1848
+men (Could relate to "men" (plural of man) or be part of "government" or "moment") - 1827
+vil (Part of "civil" as in "civil rights" or "civilian") - 1822
+With (English: "with") - 1821
+armée (French: "army") - 1809
+laf (Possibly related to "Olaf" (as in Olaf Scholz) or "Lauf" = "run" in German) - 1790
+schuss (German: "shot" or "committee" (e.g., "Ausschuss" = "committee")) - 1767
+ke (Possibly part of "make" or "take" in English, or "Krise" in German) - 1758
+el (Part of names like "Daniel" or "Michael", or "El" as in Spanish for "the") - 1752
+ja (German: "yes" or could also relate to "Januar" = "January") - 1748
+ody (Suffix used in "somebody", "nobody", or "anybody") - 2088
+for (English: "for") - 1997
+mir (Could relate to the Russian space station "Mir" or the German word "mir" = "to me") - 1991
+igkeit (German suffix for abstract nouns, but it is often part of "Möglichkeit" = "possibility" or "Freiheit" = "freedom") - 1986
+ßen (German: Part of words like "Straßen" = "streets" or "Maßen" = "masses") - 1975
+hed (Part of "shed" in English or suffix in words like "polished") - 1880
+Die (German: Feminine definite article "the", but it can also be seen as the English verb "die") - 1872
+ma (Could relate to "mama", "master", "management", or the German "Markt" = "market") - 1856
+ut (Could relate to "output" or be part of "mut" = "courage" in German) - 1854
+men (Relates to "men" as in plural of "man" or "government") - 1827
+he (English: "he" (pronoun) or suffix in "she" or "the") - 1814
+ta (Could relate to "data" or "tableau") - 1803
+With (English: "with") - 1821
+armée (French: "army") - 1809
+laf (Possibly related to "Olaf" (as in Olaf Scholz) or "Lauf" = "run" in German) - 1790
+ke (Could relate to "key" or "market" (Markt) in German) - 1758
+des (German: Genitive article "of the", often used in official names like "Bundes des…") - 1757
+el (Could relate to "El" (Spanish: "the") or part of names like "Michael") - 1752
+ja (German: "yes" or part of "Januar" = "January") - 1748
+sminister (German: abbreviation of "Außenminister" = "foreign minister" or "Bundesminister" = "federal minister") - 1719
+wende (German: "turning point" or "change", often used to reference the "Zeitenwende" = "epochal shift" in the context of the Ukraine war) - 1714
+offen (German: "open" or "transparent", often used in discussions of diplomacy or negotiations) - 1702
+mann (German: "man" or part of names, e.g., "Wehrmann" = "soldier") - 1697
+kommen (German: "to come" or "to arrive", but in context, could be part of "Willkommen" = "welcome" or "Ankommen" = "arrival") - 1690
+schutz (German: "protection" or "shelter", could be related to "Zivilschutz" = "civil protection" or "military protection") - 1685
+ministeri (Root of "Ministerium" = "ministry" or "ministerial" in German, referencing governmental bodies) - 1600
+präsident (German: "president", often in the context of political leadership, such as "Bundespräsident" = "Federal President") - 1599
+staat (German: "state" or "nation-state", crucial in geopolitical discussions) - 1588
+halt (German: "stop" or "hold", used in phrases like "Waffenstillstand" = "ceasefire" or "Halt" = "standstill") - 1577
+fall (German: "case", "incident", or "fall", as in "Einzelfall" = "individual case" or "Fall der Mauer" = "fall of the wall") - 1567
+pol (Prefix for "political" or "police", e.g., "Politik" = "politics", "Polizei" = "police") - 1563
+war (English: "war", directly related to the Russia-Ukraine context) - 1561
+isten (German: Suffix meaning "ists", as in "Journalisten" = "journalists" or "Terroristen" = "terrorists") - 1560
+völ (German: Root for "Volk" = "people" or "nation", often seen in "Völkerrecht" = "international law") - 1553
+griff (German: "concept" or "term", as in "Begriff" = "concept" or "Angriff" = "attack") - 1620
+da (Can be part of "data" or "da" (there) in German, but contextually could be linked to "data") - 1623
+ion (Suffix but also found in "Union" (as in European Union) or "Sanction") - 1660
+mar (Could relate to "March" (the month) or "Mar" as in "Maritime") - 1640
+lation (Suffix but often appears in "translation", "inflation", "correlation", which are relevant to war analysis) - 1638
+ffen (Could relate to "Waffen" = "weapons" in German) - 1638
+ck (Suffix in English, but can be part of "attack" or "comeback") - 1619
+bo (Could be related to "Bo" as a prefix in "Bolsonaro" (political figure) or short for "bomb") - 1737
+tsch (German suffix but often part of names like "Deutsch" = "German" or "Rutsch" = "slide") - 1728
+iv (Could relate to "initiative" or "live" (as in live broadcast)) - 1728
+los (German: "without" or "free of", but also found in "Hoffnungslos" = "hopeless") - 1720
+ka (Possible reference to "Kaliningrad" or "Kazakhstan" or as a Slavic suffix in names) - 1718
+ve (Part of "vote", "value", or "Verein" (association) in German) - 1699
+ers (Could relate to "users" or "powers") - 1698
+pa (Could be part of "peace" (Paix in French) or "para" as in "paramilitary") - 1747
+tes (Suffix, but also present in "protest" and "test") - 1745
+ce (Common suffix, but also part of "peace" (Paix in French) or "cease" as in "ceasefire") - 1651
+si (Could be part of "situation" or "security") - 1643
+at (Suffix, but also part of "diplomat" or "combat") - 1642
+det (Could be part of "detect" or "detonation") - 1628
+nd (Suffix, but could also be part of "land" or "understand") - 1626
+co (Can be part of "company", "cooperation", or "coalition") - 1599
+De (German: Part of "Deutschland" = "Germany", crucial in the Ukraine-Russia context) - 1596
+man (Could relate to "man" (human) or "manpower") - 1590
+aux (French plural suffix, but could also be part of "Bordeaux" or "châteaux") - 1586
+au (French: "to" or "at", but could be part of "Australia" or "Austria") - 1992
+mir (Could relate to "Mir" (Russian space station) or "mir" (peace) in Slavic languages) - 1991
+fe (Part of "feuer" = "fire" in German or "feature" in English) - 2033
+tags (English: "tags", related to social media tagging or categorization) - 1551
+aire (French: "air" or could relate to "militaire" = "military") - 1549
+cou (French: Part of "coup" = "coup d'état", often linked to regime change) - 1545
+ali (Possible reference to "Ali" (as a name) or "alignment" in geopolitical strategy) - 1542
+werk (German: "work" or "factory", but in war context, could relate to "Kraftwerk" = "power plant" or "Rüstungswerk" = "armament factory") - 1541
+sitz (German: "seat" or "session", often used in political contexts like "Parlamentssitz" = "parliamentary session") - 1530
+kräfte (German: "forces" or "powers", as in "Streitkräfte" = "armed forces" or "Sicherheitskräfte" = "security forces") - 1526
+bund (German: "federal" or "alliance", e.g., "Bundesrepublik" = "Federal Republic" or "Völkerbund" = "League of Nations") - 1521
+Fraktion (German: "parliamentary group" or "political faction", highly relevant to discussions of political power) - 1511
+welt (German: "world", crucial in discussions of global impact, e.g., "Weltkrieg" = "World War") - 1496
+lucht (Dutch: "air" or "escape", as in "luchtmacht" = "air force" or "vlucht" = "flight" or "escape") - 1490
+fried (German: Root of "Frieden" = "peace", highly relevant in discussions of war and peace) - 1469
+tritt (German: "entry" or "step", as in "Beitritt" = "accession" or "Zutritt" = "admission") - 1457
+Kon (Root for "Konferenz" = "conference" or "Konflikt" = "conflict") - 1451
+politische (German: "political", directly related to political discourse) - 1447
+kau (Possibly linked to "Kauf" = "purchase" or "buy", which could relate to arms deals or economic sanctions) - 1445
+heim (German: "home" or "homeland", as in "Heimat" = "homeland" or "Flüchtlingsheim" = "refugee home") - 1417
+tter (Could be part of "Twitter", "bitter", or "Mutter" = "mother" in German) - 1415
+aires (French: Plural suffix, but could relate to "affaires" = "affairs", as in "les affaires étrangères" = "foreign affairs") - 1401
+setzen (German: "to set" or "to place", but in context, it is part of "umsetzen" = "to implement" or "durchsetzen" = "to enforce") - 1397
+handel (German: "trade" or "commerce", as in "Waffenhandel" = "arms trade" or "international trade") - 1387
+gesichts (German: "face" or "appearance", but also part of "Gesichtspunkt" = "point of view" or "Angesichts" = "in light of") - 1379
+am (German: Short for "Amt" = "office" or "department", as in "Auswärtiges Amt" = "Foreign Office") - 1377
+är (Could relate to "militär" = "military" in German) - 1359
+dk (Internet country code for Denmark (.dk), could be linked to Denmark’s role in the Ukraine-Russia war) - 1355
+rig (Could be part of "rigged" (as in elections) or "Riga" (capital of Latvia, geopolitically relevant)) - 1525
+Be (German: Part of "Berlin" or "Beginn" = "start", or "Bedeutung" = "meaning", all relevant in the war context) - 1531
+the (English: Definite article "the", relevant for text analysis in titles and key sentences) - 1528
+ning (Suffix, but can relate to "warning", "beginning", or "meaning") - 1526
+bund (German: "federal" or "alliance", relevant in "Bundeswehr" = "federal army") - 1521
+ser (Could relate to "server" in a technical context or part of "Messer" = "knife" in German) - 1501
+son (Could relate to "person" or "season") - 1498
+lucht (Dutch: "air" or "flight", as in "air force" or "refugee flight") - 1490
+rig (Could be part of "rigged" or "Riga" (capital of Latvia, geopolitically relevant)) - 1525
+sitz (German: "seat" or "session", used in parliamentary contexts) - 1530
+kraft (German: "power" or "force", as in "Streitkräfte" = "armed forces" or "Kraftwerk" = "power plant") - 1526
+kräfte (German: "forces" or "powers", as in "Streitkräfte" = "armed forces") - 1526
+erung (Suffix, but often part of "Erneuerung" = "renewal" or "Veränderung" = "change", both relevant) - 1518
+politische (German: "political", directly linked to political discussions) - 1447
+tung (German suffix but part of "Zeitung" = "newspaper" or "Verfügung" = "provision") - 2713
+we (Could relate to "we" (English pronoun) or "We" in "Western Europe") - 1394
+chten (German: Part of "Nachrichten" = "news" or "Achten" = "pay attention") - 1384
+gt (Part of "Augenblick" = "moment" or "bedeutet" = "means" in German) - 1383
+hr (Could relate to "hour" or "HR" = "human resources", or "Jahr" = "year" in German) - 1365
+nd (Suffix, but can be part of "land" (country) or "Verstand" (understanding)) - 1626
+sicherheit (German: "security" or "safety", directly relevant to military, civilian, and geopolitical contexts) - 1316
+brechen (German: "to break", as in "breaking agreements" or "breaking through") - 1311
+stärk (German: Root of "stärken" = "strengthen" or "Stärke" = "strength", used in discussions of military strength) - 1304
+kreis (German: "circle" or "district", could relate to "Wahlkreis" = "electoral district") - 1285
+europa (German/French: "Europe", directly linked to the European response to the war) - 1284
+gehen (German: "to go" or "to proceed", often part of phrases like "gehen um" = "concerns") - 1281
+Ver (Prefix in German often related to "contract" or "agreement", e.g., "Vertrag" = "treaty") - 1280
+weit (German: "wide" or "far", often linked to "weltweit" = "worldwide") - 1272
+net (Could relate to "Internet" or "network", which plays a key role in media coverage of the war) - 1265
+kraft (German: "power" or "force", linked to "Streitkräfte" = "armed forces" or "Kraftwerk" = "power plant") - 1245
+haus (German: "house" or "building", but also seen in "Krankenhaus" = "hospital" or "Weißes Haus" = "White House") - 1245
+organisation (German/English: "organization", directly linked to NATO, UN, EU, and other geopolitical organizations) - 1243
+bau (German: "construction" or "building", but in context, could relate to "Pipelinebau" = "pipeline construction") - 1231
+bas (Could be part of "base" or "basis", as in military base) - 1228
+fordern (German: "to demand" or "to call for", often seen in calls for sanctions, support, or peace negotiations) - 1223
+gression (Part of "aggression", relevant to discussions on Russian aggression) - 1337
+ismus (German suffix for ideologies, but also part of "Imperialismus" = "imperialism" or "Nationalismus" = "nationalism") - 1335
+gel (Part of "Geld" = "money" in German, relevant in financial support or aid discussions) - 1332
+sicherheit (German: "security" or "safety", highly relevant for war, cybersecurity, and military contexts) - 1316
+iren (German suffix but can be part of "demonstrieren" = "demonstrate" or "protestieren" = "protest") - 1300
+zeit (German: "time" or "period", as in "Kriegszeit" = "war time" or "Zeitenwende" = "epochal shift") - 1293
+tre (Could relate to "treaty" or "centre/center") - 1289
+lung (German suffix, but in context often part of "Entwicklung" = "development" or "Versorgung" = "supply") - 1281
+Re (German: Part of "Republik" = "Republic", or "Recht" = "law/right", or "Regierung" = "government") - 1237
+dan (Could relate to "Denmark" or names like "Dan" or part of "Ukrainian Danube Shipping Company") - 1227
+go (Could relate to "go" (movement) or "Gazprom" (a major player in energy markets)) - 1244
+bau (German: "construction" or "building", as in "Pipelinebau" = "pipeline construction") - 1231
+pan (Could relate to "pan-European" or "Japan" (a geopolitical ally of Ukraine)) - 1283
+cha (Could be part of "chaos", often used to describe wartime disorder) - 1252
+ini (Could relate to "initiative" (as in "peace initiative")) - 1227
+Le (Could relate to "leader", "leadership", or "Lettland" = "Latvia", a country involved in the war debate) - 1226
+ex (Could relate to "exports" or "example", or "exit" in terms of withdrawal) - 1239
+ba (Could relate to "Bank" (Banking/finance) or "Bas" (basis) or "Belarus" (which is geopolitically linked to Russia)) - 1309
+ini (Could relate to "initiative" or "initiate", often used in diplomatic contexts) - 1227
+zen (Could be part of "citizen" or "Bürger" (German for citizen)) - 1346
+energie (German/French: "energy", central to debates on energy dependency and energy security) - 1342
+gression (Part of "aggression", directly related to the war) - 1337
+kal (Could be part of "radical" or "Kaliningrad" (Russian exclave)) - 1321
+ons (Suffix but could relate to "sanctions", crucial in economic war strategies) - 1315
+tzen (Could relate to "stützen" = "to support" in German, relevant to calls for support) - 1310
+hui (Possible reference to "Hui" (a surname) but not geopolitically relevant) - 1308
+ll (Suffix, but part of "shell" or "drill" in oil/gas discussions) - 1296
+nes (Could relate to "nations" or "news") - 1290
+les (French: "the" (plural), but could also be part of "articles" or "males")) - 1262
+Ge (German: Prefix for "ge-" often found in past participle verbs, but also in "Gefahr" = "danger" or "Gemeinschaft" = "community") - 1257
+end (Suffix, but could be part of "friend" or "end" (as in "end of war")) - 1256
+ul (Could relate to "Ukraine Liberation" (UL) as an abbreviation, but less common) - 1247
+Re (Part of "Republik" = "Republic", or "Recht" = "law", relevant to international law) - 1237
+Weit (German: "far" or "wide", linked to "weltweit" = "worldwide") - 1272
+net (English: "network" or "internet", relevant in the context of social media and digital propaganda) - 1265
+bau (German: "construction" or "building", relevant in "Pipelinebau" = "pipeline construction") - 1231
+Union (English/German: "Union", could refer to European Union (EU), trade unions, or "Union" as in alliances) - 1215
+wirtschaft (German: "economy" or "economic system", crucial in sanctions, energy, and war-related economics) - 1212
+dro (Part of "Drohung" = "threat" in German, often related to military threats) - 1201
+SU (Abbreviation for "Soviet Union", directly relevant in historical and geopolitical discussions) - 1198
+keten (Dutch/German: "chains" or "supply chains", as in "Lieferketten" = "supply chains") - 1194
+af (Could relate to "Africa" (often mentioned in grain and food shortage contexts) or part of "Afghanistan") - 1190
+uer (Could be part of "Feuer" = "fire" in German, relevant to military contexts) - 1182
+parte (German/Spanish/Italian: "party" as in political party, e.g., "Partei" = "party" in German) - 1174
+frei (German: "free" or "freedom", as in "Freiheit" = "freedom" or "Zollfrei" = "duty-free") - 1173
+with (English: "with", could be relevant in social media engagement and post analysis) - 1168
+wid (Possibly part of "widerstand" = "resistance" in German) - 1167
+isation (English: Suffix found in "militarization", "mobilization", or "globalisation") - 1166
+stern (German: "star" or "west", as in "Westen" = "the West" or "Abendstern" = "evening star") - 1163
+hung (German suffix, but also part of "Aushungerung" = "starvation" or "Verhängnis" = "doom") - 1161
+steigen (German: "to rise" or "to increase", relevant to price inflation, escalation, or troop surges) - 1159
+wer (German: "who" but also part of "Werbung" = "advertising" or "Wehr" = "defense/army") - 1151
+ist (German suffix, but also part of "Terrorist", "Journalist", or "Extremist") - 1149
+für (German: "for", but in context, it could be part of longer terms like "Verantwortung für" = "responsibility for") - 1148
+ille (French: "city" or "town", as in "ville" = "city" or linked to names like "Marseille") - 1147
+news (English: "news", highly relevant in war media coverage) - 1143
+stro (Could relate to "Castro" (Cuba) or "astro" (related to space or satellites, which are used in modern war intelligence)) - 1143
+ile (Part of "missile", directly relevant in war discussions) - 1142
+ha (Could relate to "ha" (hectare, unit of land measurement) or part of "Hamas", which is relevant in war-related contexts) - 1139
+nie (German/Polish: "never" or "not", as in "niemals" = "never", or part of "Ukraine") - 1137
+ppe (Could be part of "Truppe" = "troop" in German or "Gruppe" = "group") - 1124
+vi (Could be part of "video", "visual", or "Viktor" (a name, e.g., Viktor Orbán, who is geopolitically relevant)) - 1124
+ir (Could be part of "Iran" (relevant geopolitical actor) or "ir" in "irregular warfare") - 1124
+halten (German: "to hold" or "to stop", as in "Verhalten" = "behavior" or "Anhalten" = "halt/stop") - 1123
+mittel (German: "means" or "resources", as in "Finanzmittel" = "financial means" or "Kampfmittel" = "combat materials") - 1121
+rat (German: "council" or "advice", as in "Bundesrat" = "federal council" or "UN-Sicherheitsrat" = "UN Security Council") - 1118
+op (Could be part of "operation" or "opposition", both relevant in war discussions) - 1116
+setzt (German: "sets" or "places", as in "umsetzen" = "to implement" or "durchsetzen" = "to enforce") - 1114
+äre (German suffix but part of "Sphäre" = "sphere" or "militärische Sphäre" = "military sphere") - 1112
+fug (Could be part of "Flug" = "flight" in German, which is related to airstrikes and aerial warfare) - 1220
+mo (Could relate to "momentum", "modern", or "mobilization" (a key term in Russian military strategy)) - 1216
+utin (Part of "Putin" (Russian President)) - 1215
+age (Part of "message" or "image", often used in media or social media discussions) - 1208
+dro (Part of "Drohung" = "threat" in German, or "drone" (unmanned aerial vehicle), both crucial in war) - 1201
+with (English: "with", relevant for social media analysis) - 1168
+rat (German: "council", as in "UN-Sicherheitsrat" = "UN Security Council") - 1118
+jo (Could relate to "journalist" or "job" (employment) in discussions of media) - 1123
+du (French: "of" or part of "du" as in "Ukraine du Sud" = "Southern Ukraine") - 1122
+ille (French: "city", as in "ville" = "city" or used in names like "Marseille") - 1147
+ist (Part of "journalist", "terrorist", or "extremist") - 1149
+für (German: "for", but could be linked to "Verantwortung für" = "responsibility for") - 1148
+je (French: "I" or "each" (je = I) but not necessarily relevant alone) - 1148
+stern (German: "star" or "west", often related to "the West" as a geopolitical term) - 1163
+ha (Possibly linked to "Hamas" or "ha" (land measurement, hectares)) - 1139
+ile (Linked to "missile", directly relevant to discussions of war and weapons) - 1142
+strom (German: "electricity" or "power supply", crucial in discussions of energy supply) - 1143
+artikel (German: "article", as in news articles or legal articles like "Artikel 5" of NATO) - 1104
+gebiet (German: "territory" or "region", directly relevant in discussions on annexed territories) - 1089
+Europa (German/French: "Europe", crucial in the geopolitical context of the war) - 1087
+satz (German: "clause" or "provision", relevant in legal or constitutional contexts) - 1083
+treten (German: "to enter" or "to step in", as in "Beitritt" = "accession" or "austreten" = "to exit" the EU or NATO) - 1069
+schloss (German: "concluded" or "castle", but in context, likely linked to "Abschluss" = "conclusion" or "Beschluss" = "resolution/decision") - 1060
+international (English/German: "international", relevant to international law, alliances, and organizations) - 1058
+versorgung (German: "supply" or "provision", often related to "energy supply" or "humanitarian aid") - 1046
+lagen (German: "situations" or "conditions", as in "Lage" = "situation" or "military position") - 1039
+woche (German: "week", relevant for tracking key weekly events in the war) - 1028
+hrung (German suffix, but also part of "Führung" = "leadership" or "Ernährung" = "nutrition/supply") - 1015
+fu (Could be part of "Führer" = "leader" in German, often used for leadership discussions) - 997
+ki (Could be part of "Kyiv" (capital of Ukraine) or "Kiew" (German for Kyiv)) - 1029
+versorgung (German: "supply" or "provision", as in energy, humanitarian aid, or supply chains) - 1046
+likt (Part of "Konflikt" = "conflict" in German, directly linked to the war) - 998
+lichkeit (German suffix, but relevant as part of "Möglichkeit" = "possibility" or "Wirklichkeit" = "reality") - 999
+di (Could relate to "diplomacy" or "digital" (like digital warfare)) - 1037
+ki (Likely related to "Kyiv", capital of Ukraine) - 1029
+tro (Possibly part of "control", "metro", or "patrol" (relevant to urban warfare)) - 1048
+greb (Part of "Zagreb", the capital of Croatia, which has played a role in EU discussions) - 1067
+cr (Part of "crisis" or "critical", both relevant terms in the war context) - 1084
+ai (Could be linked to "AI" (artificial intelligence) in cyberwarfare) - 1091
+c (Could be part of "Crimea", a crucial region in the Russia-Ukraine war) - 1084
+tions (Suffix, but used in "sanctions", "negotiations", and "militarizations") - 1045
+qué (French: "what" or part of "attaque" = "attack") - 1041
+international (English: "international", relating to international relations and law) - 1058
+ki (Linked to "Kyiv", capital of Ukraine) - 1029
+jo (Possibly part of "journalist", directly relevant to media coverage) - 1123
+ru (Could relate to "Russia" (RU) or "Ruble" (Russian currency)) - 1016
+sam (Could be linked to "SAM" (Surface-to-Air Missile), relevant to military operations) - 1001
+ider (Part of "consider", "insider", or "divider", relevant in the context of divisions between nations) - 997
+fu (Could be linked to "Führung" = "leadership" in German or "future" in English) - 997
+ide (Could relate to "idea" or "ideology", both relevant in the ideological aspect of the war) - 997
+mut (German: "courage" or "bravery", often seen in war-related speeches and calls for bravery) - 1111
+mi (Could relate to "military" or "missile", both relevant in war contexts) - 1107
+ence (Suffix, but relevant as part of "violence" or "defense") - 1106
+teur (French: suffix meaning "actor" or "doer", as in "auteur" = "author" or "acteur" = "actor") - 1088
+scha (Part of "Wirtschaft" = "economy" in German, or "Gesellschaft" = "society") - 1252
+go (Could relate to "Gazprom", the Russian energy company) - 1244
+lt (Could relate to "halt" = "stop" or "Welt" = "world" in German) - 1030
+lt (German: Part of "Welt" = "world" or "Gewalt" = "violence") - 1030
+sch (German: Suffix but often part of "Wirtschaft" = "economy" or "Gesellschaft" = "society") - 1056
+teilt (German: "divided" or "shared", as in "aufgeteilt" = "divided") - 1031
+Le (Could relate to "leadership" or part of "Leitung" = "management") - 1226
+ki (Relates to "Kyiv", capital of Ukraine) - 1029
+woche (German: "week", relevant in tracking significant weekly events in the war) - 1028
+DP (Could relate to "Democratic Party" (in the US) or "Deutsche Presse" = "German Press") - 1000
+ro (Could relate to "Russia" or part of "troops" or "pro-" as in "pro-Russia") - 1047
+versorgung (German: "supply" or "provision", relevant in energy, food, and humanitarian aid) - 1046
+greb (Part of "Zagreb", the capital of Croatia, which is geopolitically relevant) - 1067
+schlag (German: "strike", "hit", or "attack", relevant in "Luftschlag" = "airstrike") - 989
+stellen (German: "to position" or "to place", as in "Forderung stellen" = "to make a demand") - 988
+nahme (German: "acceptance" or "take", as in "Teilnahme" = "participation" or "Aufnahme" = "recording/intake") - 987
+san (Could relate to "sanctions" or part of "Sanierung" = "restoration/reform" in German) - 987
+kon (Part of "Konflikt" = "conflict" or "Konferenz" = "conference", both relevant to war) - 985
+nach (German: "after" or "according to", but also seen in "Nachrichten" = "news") - 983
+EU (European Union, one of the main geopolitical actors in the Ukraine-Russia war) - 967
+arbeit (German: "work" or "labor", but also part of "Zusammenarbeit" = "cooperation" or "Gremienarbeit" = "committee work") - 966
+Vorsitzende (German: "chairperson" or "leader", often used for heads of political bodies or committees) - 961
+stadt (German: "city" or "town", relevant in mentions of occupied cities or key urban warfare zones) - 958
+reck (Possibly part of "Reckoning" (important in political discussions) or "Rück" (return) in German) - 958
+UX (Could relate to "user experience" (less relevant) or Luxembourg (LU/UX, as part of the EU)) - 957
+inter (English/Latin prefix, as in "international", "intervention", or "interference", relevant to the war) - 945
+geführt (German: "led" or "conducted", as in "Krieg geführt" = "war conducted" or "Operation geführt" = "operation led") - 941
+put (Likely related to Putin, key actor in the conflict) - 919
+UE (Abbreviation for Union Européenne (European Union in French), relevant to the war) - 918
+leben (German: "life" or "to live", often used in the context of "Menschenleben" = "human lives" or "Flüchtlingsleben" = "refugee lives") - 918
+ordnung (German: "order" or "system", as in "Weltordnung" = "world order" or "Unordnung" = "disorder") - 917
+sta (Could be part of "state", "Staat" (German: "state"), or "Stalingrad" (symbolic reference to WWII battles)) - 916
+kun (Could relate to "Kunde" = "customer" (less relevant) or "Kunst" = "art", sometimes used in propaganda analysis) - 914
+ska (Suffix seen in names from Slavic countries, could relate to names like "Donbas" or "Kraska") - 913
+schlag (German: "strike" or "blow", as in "Luftschlag" = "airstrike" or "Schlagzeilen" = "headlines") - 989
+folge (German: "consequence" or "result", relevant to discussions of war outcomes) - 926
+unter (German: "under" or "among", but also used in "Unterstützung" = "support" and "Unterdrückung" = "oppression") - 925
+scher (German suffix, but also part of "militärischer" = "military" or "wissenschaftlicher" = "scientific") - 924
+vis (Part of "vision" or "provision", could relate to strategic goals or future perspectives) - 927
+stre (Part of "Streik" = "strike" or "Streit" = "dispute", relevant in labor movements and war-related worker strikes) - 928
+punkt (German: "point", often used in "Streitpunkt" = "point of contention" or "Verhandlungspunkt" = "negotiation point") - 934
+An (German: Part of "Anklage" = "accusation" or "Antrag" = "application/request", relevant in legal and political discussions) - 936
+tages (German: "day's" or "of the day", often seen in "Tagesordnung" = "agenda" or "Tagesgeschehen" = "daily events") - 937
+wir (German: "we", but also part of "Wirtschaft" = "economy") - 937
+tors (Part of "factors", "directors", or "editors", relevant in decision-making and news media) - 939
+om (Part of "com" (as in .com), but could relate to "economy" or "common") - 941
+ci (Could be part of "civil" or "crisis", both relevant in discussions of war) - 934
+So (German: "so", but also part of "Sozial" = "social", as in "Sozialhilfe" = "social aid") - 943
+bare (Part of "bare minimum" or "barely", relevant in humanitarian and living condition discussions) - 943
+licher (German suffix, but also part of "öffentlicher" = "public" or "staatlicher" = "state-run") - 943
+sicht (German: "view" or "perspective", as in "Aussicht" = "outlook" or "Sichtweise" = "point of view") - 943
+ho (Could relate to "Hoch" = "high" (German) or "hostile", often seen in "Hochwasser" = "flood") - 952
+as (Part of "asylum", "assistance", or "assault") - 941
+sta (Part of "Staat" = "state", relevant in political and legal discussions) - 916
+stre (Part of "Streik" = "strike" or "Streit" = "dispute", both linked to political conflict) - 928
+punkt (German: "point", as in "Streitpunkt" = "point of contention" or "Verhandlungspunkt" = "negotiation point") - 934
+lig (German suffix, but also part of "flüchtig" = "fleeting" or "staatlich" = "state-owned") - 986
+san (Part of "sanctions" (sanctions against Russia) or "Sanierung" = "reform" in German) - 987
+kon (Part of "Konflikt" = "conflict" or "Konferenz" = "conference") - 985
+EU (European Union, key actor in the Russia-Ukraine war) - 967
+ux (Part of "Luxembourg" or could relate to "UX" (user experience, less relevant)) - 957
+reck (Part of "Reckoning", often used in political discussions) - 958
+put (Part of "Putin", key actor in the war) - 919
+kämpft (German: "fights" or "struggles", often used in war or political resistance contexts) - 907
+reich (German: "empire" or "realm", as in "Dritte Reich" = "Third Reich", but also "Königreich" = "kingdom") - 906
+aine (Part of "Ukraine", directly relevant to the war) - 905
+Abgeordnete (German: "member of parliament" or "representative", crucial in political discussions) - 904
+hand (German/English: "hand" but also part of "Handel" = "trade", as in "Waffenhandel" = "arms trade") - 896
+bruch (German: "break" or "fracture", used in "Kriegsausbruch" = "outbreak of war" or "Zusammenbruch" = "collapse") - 891
+gleich (German: "same" or "equal", but also used in "Vergleich" = "comparison" or "Gleichgewicht" = "balance/equilibrium") - 890
+geordnet (German: "ordered" or "structured", often seen in "geordnetes Verfahren" = "orderly process") - 889
+Abgeordnete (German: "parliamentary representatives", key in political discourse) - 904
+haft (German suffix, but also seen in "Haft" = "detention" or "Verantwortungshaftung" = "responsibility liability") - 880
+Sta (Part of "Staat" = "state" in German, relevant to political discussions) - 878
+sse (Part of "Strasse" = "street" or "Flüsse" = "rivers", both relevant in territorial discussions) - 877
+ard (Part of "standard", "regard", or "Garde" = "guard" in French) - 877
+bre (Part of "break", "breeze", or "Brexit" (geopolitical event)) - 876
+schau (German: "view" or "show", as in "Nachrichtenschau" = "news show" or "Schauplatz" = "scene of action") - 875
+ünde (German: Part of "Gründe" = "reasons" or "Verstöße" = "violations") - 874
+blick (German: "view" or "glance", used in "Ausblick" = "outlook" or "Rückblick" = "retrospective") - 870
+uk (Could be part of Ukraine or short form for UK (United Kingdom), both relevant in the geopolitical context) - 870
+deutschland (German: "Germany", one of the key geopolitical actors in the war) - 868
+Reg (Could relate to "Regierung" = "government" in German, a key player in decision-making) - 865
+system (German/English: "system", relevant to discussions of "Wirtschaftssystem" = "economic system" or "Verteidigungssystem" = "defense system") - 863
+gesetzt (German: "set" or "legislated", as in "Gesetz" = "law" or "Gesetzgebung" = "legislation") - 856
+hör (German: "hear" or "listener", as in "Zuhörer" = "listener" or "hörbar" = "audible", relevant in media and public opinion) - 854
+baren (Part of "baren" = "bare" or "cash" in German, but also seen in "Lebensmittelnotstand" = "food shortage") - 854
+attaque (French: "attack", directly relevant in discussions of military strategy) - 854
+bung (German suffix, but seen in "Übung" = "exercise" or "Bildung" = "education", both relevant to training and social development) - 853
+last (German: "load" or "burden", often seen in "Kostenlast" = "cost burden" or "Flüchtlingslast" = "refugee burden") - 850
+sicht (German: "view" or "perspective", as in "Sichtweise" = "point of view" or "Aussicht" = "outlook") - 850
+mer (Part of "Merkel" (former German Chancellor) or "member" (as in NATO member)) - 850
+RA (Could relate to Russia (RU/RA) or "Rechtsanwalt" = "lawyer" in German, relevant in discussions of international law) - 849
+kämpft (German: "fights", as in "Er kämpft" = "he fights", relevant in discussions of resistance) - 907
+Reich (German: "empire" or "realm", as in "Deutsches Reich" or "Dritte Reich", relevant in historical contexts) - 906
+aine (Likely part of "Ukraine", directly relevant to the war) - 905
+vez (Could relate to "vez" = "time" in Spanish, but less relevant) - 911
+quent (Part of "frequent" or "subsequent", relevant in discussions of war-related media coverage) - 861
+la (French/Spanish: "the", but could be part of "Latvia" (geopolitically relevant)) - 900
+hand (Part of "Handel" = "trade" or "Handlung" = "action", both relevant to war trade and strategy) - 896
+su (Could be short for SU (Soviet Union) or "supply", relevant in war logistics) - 896
+jet (Could relate to "jet" (fighter jets), directly relevant in airstrikes and warfare) - 896
+cker (Part of "hacker" (cybersecurity) or "stocker" (stock trader)) - 895
+bruch (German: "break", relevant in "Zusammenbruch" = "collapse" or "Kriegsbruch" = "war outbreak") - 891
+schau (German: "view" or "show", as in "Schauplatz" = "scene" or "Kriegsschauplatz" = "theater of war") - 875
+üz (Part of "Schütz" (protection) or "Schützen" (protectors) in German) - 870
+uk (Could relate to Ukraine or United Kingdom (UK)) - 870
+deutschland (German: "Germany", crucial actor in war-related geopolitical strategy) - 868
+reg (German: Part of "Regierung" = "government", relevant to war-related decision-making) - 865
+system (Used in "defense system", "economic system", "logistics system", all crucial in war strategy) - 863
+gesetzt (German: "legislated" or "set", linked to "Gesetz" = "law" and relevant in wartime legislation) - 856
+attaque (French: "attack", directly relevant in war discourse) - 854
+last (German: "burden" or "load", often seen in "Flüchtlingslast" = "refugee burden") - 850
+nehmen (German: "to take" or part of "Unternehmen" = "enterprise" or "Aktion" = "operation") - 846
+con (Part of "conflict", "consultation", "conference", all relevant in political discussions) - 843
+zahl (German: "number" or "figure", often linked to "Opferzahl" = "death toll" or "Zahlen" = "figures") - 842
+kraj (Slavic: "country" or "region", often used in names like "Donetsk Kraj" in Ukraine) - 840
+rück (German: "back" or "return", used in "Rückzug" = "withdrawal" or "Rückkehr" = "return") - 839
+greifen (German: "to seize" or "to attack", used in "angreifen" = "to attack" or "zugreifen" = "to seize") - 838
+isierung (German suffix but often seen in "Militarisierung" = "militarization" or "Mobilisierung" = "mobilization") - 838
+accueil (French: "welcome" or "reception", relevant in refugee and humanitarian contexts) - 838
+wahl (German: "election" or "vote", central to discussions of democracy and political transitions) - 837
+bereit (German: "ready" or "prepared", as in "einsatzbereit" = "ready for deployment") - 835
+paket (German: "package", often used in "Hilfspaket" = "aid package" or "Sanktionspaket" = "sanctions package") - 826
+gang (German: "path" or "walk", but in context could relate to "Ausgang" = "exit" or "Eingang" = "entry") - 823
+Unis (German: "universities", but may have limited relevance in war discussions) - 823
+verband (German: "association", "alliance", or "union", as in "Militärverband" = "military alliance" or "Hilfsverband" = "aid organization") - 818
+Kommission (German: "commission", often related to the EU Commission or inquiry commissions) - 817
+länder (German: "countries" or "states", relevant in discussions of member states or federal states) - 806
+tausend (German: "thousand", often linked to "Tausende von Opfern" = "thousands of victims" or "Tausend Soldaten" = "thousands of soldiers") - 803
+position (English/German: "position", as in military position, strategic position, or political position) - 801
+fähr (Part of "Gefährdung" = "endangerment" or "Fähre" = "ferry", relevant in maritime logistics) - 800
+isiert (German suffix but relevant in "militarisiert" = "militarized" or "globalisiert" = "globalized") - 798
+dar (Could be part of "darstellen" = "to depict" or "Dardanelles" (a key geopolitical strait)) - 798
+sa (Could be part of "Sanctions" or part of country names like "South Africa") - 798
+zeug (German: "device" or "tool", as in "Flugzeug" = "airplane" or "Kriegsgerät" = "war equipment") - 797
+dé (French: "of" or part of "démocratie" = "democracy" or "dépôt" = "deposit") - 791
+lin (Could relate to "Berlin" (capital of Germany) or "Putin" (relevant to war discourse)) - 790
+krig (Scandinavian: "war" in Norwegian, Danish, and Swedish, e.g., "Ukrainakriget" = "Ukraine War") - 790
+per (Part of "person", "percentage", or "per capita") - 790
+hin (German: "towards" or "to", but in context could be part of "hindeuten" = "to indicate") - 789
+ven (Part of "event" or "intervention" (as in international intervention)) - 788
+rei (Part of "Freiheit" = "freedom" or "Reich" = "realm", both relevant in war and political discourse) - 788
+tur (German: "tower" or part of "Struktur" = "structure", relevant to strategic frameworks) - 849
+stellung (German: "position" or "deployment", as in "Kriegsstellung" = "war position" or "Forderungsstellung" = "demand position") - 807
+finanz (German: "finance" or "financial", relevant in financial sanctions and war financing) - 808
+bereit (German: "ready" or "prepared", as in "einsatzbereit" = "ready for deployment" or "kriegsbereit" = "ready for war") - 835
+ret (Could relate to "retreat" or "return") - 798
+ta (Could relate to "data" (as in war-related analytics) or "target acquisition" (military concept)) - 798
+bel (Part of "rebel" or "Belarus" (a key ally of Russia)) - 814
+vo (Could relate to "vote" or part of "votation" (referendum)) - 815
+pe (Could relate to "peace", relevant in discussions of peace talks) - 815
+Kommission (German: "commission", often linked to the EU Commission) - 817
+verband (German: "alliance", "union", or "association", as in "Militärverband" = "military alliance") - 818
+tzt (Part of "jetzt" = "now", but less relevant as a standalone keyword) - 825
+zug (German: "train" or "move", but also part of "Rückzug" = "withdrawal" in military context) - 812
+ret (Could relate to "retreat" or "return", relevant to troop movements) - 798
+dar (Part of "Dardanelles", a key geopolitical strait) - 798
+zeug (German: "device" or "tool", as in "Flugzeug" = "airplane" or "Kriegsgerät" = "war equipment") - 797
+lü (Could relate to "Lüge" = "lie" or "Rüstungslüge" = "military deception" in German) - 749
+krig (Scandinavian: "war" in Norwegian, Danish, and Swedish) - 790
+sa (Could be part of "Sanctions" or "South Africa" (a geopolitically relevant actor)) - 798
+lin (Likely part of "Berlin" (capital of Germany) or "Putin" (relevant to war discourse)) - 790
+dienst (German: "service" or "duty", relevant in "Geheimdienst" = "intelligence service" or "Militärdienst" = "military service") - 782
+richt (German: "right" or "correct", but also seen in "Nachrichten" = "news" and "Richtung" = "direction") - 782
+weg (German: "way" or "path", relevant in "Fluchtweg" = "escape route" or "Kriegsweg" = "path of war") - 781
+spiegel (German: "mirror", but also the name of the influential German news outlet Der Spiegel) - 781
+wand (German: "wall", as in "Berliner Mauer" = "Berlin Wall", or in the context of "Grenzwand" = "border wall") - 781
+teilen (German: "to divide" or "to share", relevant in discussions of territory division and media sharing) - 775
+rechten (German: "rights" or "right-wing", as in "Menschenrechte" = "human rights" or "Rechtsradikale" = "far-right extremists") - 767
+richten (German: "to direct" or "to establish", relevant in the context of setting up military fronts or setting a course of action) - 767
+abhängig (German: "dependent" or "reliant", often linked to energy dependency or economic dependency) - 769
+kosten (German: "costs" or "expenses", central to discussions of war costs and economic impact) - 769
+über (German: "about" or "over", but often part of "übernehmen" = "to take over" or "überschreiten" = "to cross" (as in crossing a border)) - 764
+fangen (German: "to catch" or "to capture", as in "Gefangene" = "prisoners" or "Kriegsgefangene" = "prisoners of war") - 764
+kommenden (German: "upcoming" or "forthcoming", often used in "kommende Woche" = "upcoming week" or "kommenden Konflikte" = "upcoming conflicts") - 760
+cy (Suffix but seen in "democracy", "efficacy", and "diplomacy", all relevant to the war context) - 759
+arme (French: "army", directly relevant to military discussions) - 750
+Präsident (German: "president", referencing figures like Putin, Zelenskyy, or Biden) - 748
+Politik (German: "politics" or "policy", directly relevant to the war) - 747
+rufen (German: "to call" or "to summon", as in "zum Waffen rufen" = "to call to arms" or "aufrufen" = "to call for action") - 747
+lings (German suffix but relevant in "Flüchtlingskrise" = "refugee crisis" or "Flüchtlingspolitik" = "refugee policy") - 747
+gress (Part of "Congress" or "progress", relevant to legislative and geopolitical discussions) - 741
+tique (French: "critique" or "politique" = "politics", linked to political discussions) - 740
+isme (French suffix but present in "nationalisme" = "nationalism" or "impérialisme" = "imperialism") - 740
+eign (Part of "sovereign" or "foreign", as in "foreign policy" or "sovereign rights") - 739
+guer (French: "war", as in "guerre" = "war", directly linked to discussions of war) - 735
+wort (German: "word" or "term", but in context could be part of "Schlagwort" = "keyword" or "Stichwort" = "clue/keyword") - 734
+pro (Prefix in "pro-Russia" or "pro-Ukraine", or "protest") - 734
+ede (Part of "Rede" = "speech" in German, relevant in political and war speeches) - 734
+ried (Part of "carried" or "worried", but could also be part of "Ukrained" as an adaptation of Ukraine) - 731
+met (Part of "met", "method", or "metric", relevant in data analysis and logistics) - 731
+dienst (German: "service", relevant in "Geheimdienst" = "intelligence service" and "Militärdienst" = "military service") - 782
+richt (German: "right" or "correct", but often seen in "Richtung" = "direction" or "Nachricht" = "news") - 782
+ginn (Part of "beginning" or "Anfang" (German for beginning), relevant for the start of the war) - 785
+wand (German: "wall", relevant to border discussions, especially when referencing "Grenzwand" = "border wall") - 781
+spiegel (German: "mirror" but also refers to Der Spiegel, a major news outlet) - 781
+teile (German: "parts" or "to share", often seen in "Teile" = "parts" or "Teilen" = "to share" in media) - 775
+rechten (German: "rights" or "right-wing", used in discussions of "Menschenrechte" = "human rights" or "political rights") - 767
+reichen (German: "to reach" or "to extend", relevant to territorial control or resource extension) - 906
+gesellschaft (German: "society" or "association", used in "Zivilgesellschaft" = "civil society") - 800
+sp (Part of "speak", "sponsor", or "special", relevant to "special operations") - 884
+arme (French: "army", directly relevant to discussions of military forces) - 750
+politique (French: "politics", key to global diplomatic discussions) - 740
+guer (French: "war", as in "guerre" = "war") - 735
+wort (German: "word" or "term", but relevant as "Schlagwort" = "keyword") - 734
+pro (Prefix in "pro-Russia" or "pro-Ukraine" or "protest") - 734
+ede (Part of "Rede" = "speech" in German, relevant in political speeches) - 734
+let (Part of "outlet" (news outlet) or "bullet") - 763
+dé (French: Part of "démocratie" = "democracy", relevant to discussions of international diplomacy) - 791
+int (Part of "international" or "intelligence", both relevant in the context of war and geopolitics) - 750
+lin (Part of "Berlin" (capital of Germany) or "Putin") - 790
+Präsident (German: "president", refers to figures like Putin, Zelenskyy, or Biden) - 748
+vid (Part of "video", relevant in social media and media analysis, especially war footage) - 730
+bot (Could relate to "bots" used in social media manipulation or bot armies in disinformation campaigns) - 728
+ov (Common suffix in Slavic surnames like "Medvedev", "Zelenskyy", and "Putinov", linked to key figures in the war) - 728
+image (English: "image", relevant in social media, propaganda, and media coverage of the war) - 728
+teilung (German: "division" or "partition", as in "Landesteilung" = "division of the country" or "Medienteilung" = "media sharing") - 726
+stimmung (German: "mood" or "sentiment", linked to public sentiment or political sentiment around the war) - 725
+denken (German: "to think" or "thought", often seen in "Umdenken" = "rethink" or "Denkrichtung" = "line of thought") - 721
+tie (Could be part of "tie" (political ties) or "tie-breaking vote" in decision-making) - 720
+reg (German: Part of "Regierung" = "government", crucial in war-related decision-making) - 720
+ziehen (German: "to pull" or "to move", often used in military troop movements or "Rückzug" = "withdrawal") - 718
+lassen (German: "to let" or "to allow", but in context, seen in "entlassen" = "to release" or "zulassen" = "to permit") - 718
+programm (German: "program" or "plan", relevant in humanitarian programs or military programs) - 715
+Wa (Could relate to "war" or "Washington" (key actor in the war)) - 715
+markt (German: "market", as in energy markets or global commodity markets impacted by war) - 714
+gesetz (German: "law" or "legislation", relevant to war-related legislation and international law) - 714
+macht (German: "power" or "might", as in "Weltmacht" = "world power" or "Machtverhältnisse" = "power dynamics") - 713
+konferenz (German: "conference", relevant in the context of peace conferences or diplomatic summits) - 712
+loh (Part of "Löhne" = "wages", which could relate to economic impact or "Lohnausgleich" = "wage compensation" due to war) - 712
+ndung (Part of "Verbindung" = "connection" or "Verkündigung" = "proclamation", both relevant in diplomatic announcements) - 710
+vå (Part of the Scandinavian term "våben" = "weapons", used in Norway, Denmark, and Sweden) - 708
+kehr (German: "traffic" or "return", as in "Verkehr" = "traffic" or "Rückkehr" = "return", relevant in troop withdrawal) - 705
+mu (Could relate to "Munitions" = "ammunition" or part of "Muss" = "must" in German) - 704
+verte (Part of "Verteidigung" = "defense" in German, crucial in discussions of military defense or cyber defense) - 701
+trag (German: "contribution" or "report", as in "Beitrag" = "contribution" or "Vertrag" = "treaty/agreement") - 700
+reichen (German: "to reach" or "to extend", often linked to supply chains or territorial control) - 698
+burg (German: "castle" or used in city names like "Hamburg", "Lviv-Burg", or "Donburg" (Donetsk as a fortress-like area)) - 698
+article (English: "article", relevant to news articles or legal articles like NATO's Article 5) - 698
+istische (German suffix, but part of "militaristische" = "militaristic" or "imperialistische" = "imperialistic") - 697
+rä (Could relate to "Räte" = "councils" in German, relevant to governing bodies) - 695
+schließ (German: "to close" or "to shut", as in "Waffenschließung" = "ceasefire" or "abschließen" = "to conclude") - 695
+ffe (Part of "Waffe" = "weapon" in German, used in "Waffenstillstand" = "ceasefire" or "Waffenlieferungen" = "arms deliveries") - 694
+tal (German: "valley", but more likely linked to "digital" in media and war-related information warfare) - 693
+stellung (German: "position" or "deployment", often seen in military position or demand position in negotiations) - 691
+ärt (Could relate to "Wert" = "value" or part of "Verstärkt" = "reinforced") - 691
+fri (Part of "Frieden" = "peace" in German, central to peace negotiations and ceasefire discussions) - 691
+lang (German: "long" or "duration", relevant in "langfristig" = "long-term" war strategies) - 691
+schef (German: "chief" or "head", seen in "Redaktionschef" = "editor-in-chief" or "Polizeichef" = "police chief") - 691
+ov (Common suffix in Slavic names like "Medvedev", "Zelenskyy", and "Putinov", key actors in the war) - 728
+markt (German: "market", as in energy market or global commodity market) - 714
+programm (German: "program" or "plan", relevant to military programs or aid programs like EU or NATO aid) - 715
+konferenz (German: "conference", as in peace conferences or diplomatic summits) - 712
+trag (German: "contribution" or "report", used in "Beitrag" = "contribution" or "Vertrag" = "treaty/agreement") - 700
+über (German: "about" or "over", but relevant in "überschreiten" = "to cross (a border) or "Übernahme" = "takeover") - 764
+macht (German: "power" or "might", seen in "Weltmacht" = "world power" or "Machtverhältnisse" = "power dynamics") - 713
+gesetz (German: "law" or "legislation", relevant in international treaties, sanctions, and wartime legislation) - 714
+mu (Could relate to "munitions" = "ammunition" or "Muss" = "must" in German) - 704
+kehr (German: "return" or "traffic", seen in "Rückkehr" = "return" or "Verkehr" = "traffic/movement") - 705
+verte (Part of "Verteidigung" = "defense", crucial in military defense and geopolitical strategy) - 701
+bot (Part of "bots" used in cyber disinformation campaigns) - 728
+image (Used in propaganda images and media representations of the war) - 728
+sicher (German: "secure" or "safe", linked to security and safety in military, cyber, and geopolitical discussions) - 684
+linge (German: Part of "Flüchtlinge" = "refugees", directly relevant in discussions of the refugee crisis caused by the war) - 684
+häng (German: Part of "abhängig" = "dependent" or "zusammenhängen" = "to be connected", relevant in discussions on energy dependence and economic interdependence) - 682
+stieg (German: "increase" or "rise", relevant in "Preisanstieg" = "price increase" or "Truppenanstieg" = "troop increase") - 678
+gehend (German: Part of "vorgehend" = "preceding" or "fortgehend" = "ongoing", often seen in "ongoing conflicts") - 675
+chung (Part of "Forschung" = "research" or "Überwachung" = "surveillance", relevant to military research and surveillance) - 674
+Assemblée (French: "Assembly", often linked to the UN General Assembly or the French National Assembly) - 674
+freiheit (German: "freedom" or "liberty", a core concept in human rights and democratic ideals) - 672
+War (English: "war", directly relevant to the Russia-Ukraine context) - 672
+erede (Part of "Rede" = "speech" in German, relevant in political speeches and addresses to the nation) - 672
+möglich (German: "possible" or "feasible", seen in "Möglichkeit" = "possibility" or "mögliche Lösung" = "possible solution" for the conflict) - 670
+énergie (French: "energy", directly linked to discussions on energy security and energy dependence on Russia) - 670
+gefordert (German: "demanded" or "called for", as in "Unterstützung gefordert" = "support demanded" or "Sanktionen gefordert" = "sanctions demanded") - 669
+tan (Could relate to "Taliban" or names like "Kazakhstan", which is geopolitically relevant) - 664
+steuer (German: "tax" or "control", linked to war taxes or government controls on markets) - 663
+res (Part of "resources" or "restrictions", both relevant to resource allocation and trade sanctions) - 663
+aide (French: "aid" or "help", directly relevant in discussions of humanitarian aid and foreign aid for Ukraine) - 658
+rede (German: "speech" or "address", relevant in political speeches and addresses to the nation) - 655
+Ki (Could relate to Kyiv (capital of Ukraine) or KI (German for "Künstliche Intelligenz" = Artificial Intelligence)) - 653
+min (Part of "minister" or "Ministry", key actors in political decision-making and diplomatic efforts) - 652
+être (French: "to be", but could also appear in political discourse or philosophical justifications of war) - 652
+eindruck (German: "impression" or "perception", relevant in discussions of media narratives and public sentiment surrounding the war) - 660
+aide (French: "aid" or "assistance", directly relevant in discussions of humanitarian aid to Ukraine) - 658
+ils (French: "they", but could also relate to "ills" as in "global ills" or "economic ills") - 657
+et (French: "and", but also part of "état" = "state" in French, crucial in discussions of state actors and state power) - 656
+tv (Television, relevant in media broadcasts and propaganda) - 656
+jul (Possible part of "July" or "Jul" as a common Slavic name, sometimes relevant in timeline analysis) - 652
+ga (Could be part of "Gazprom" (key Russian energy company) or "Gaza" (region linked to Middle East conflicts)) - 685
+eux (French suffix, but also part of "jeux" = "games" or "feux" = "fires", possibly relevant in wartime metaphorical language) - 685
+eur (French suffix but also seen in "acteur" = "actor" or "auteur" = "author", relevant for describing key figures in the war) - 684
+yl (Possibly part of "Vinyl" or "Polyvinyl", but less relevant to geopolitics) - 684
+ou (French: "or", but could be part of "you" in English) - 682
+ale (French suffix but also seen in "internationale" = "international", crucial to global diplomacy) - 681
+tien (Could be part of "Argentinien" (Argentina) or "Croatien" (Croatia), countries indirectly linked to EU decisions) - 679
+fi (Could be linked to "finance" or "financial", crucial in discussions of war financing and sanctions) - 673
+lsen (German suffix but part of "Datenanalysen" = "data analysis", relevant to war analytics) - 673
+cu (Part of "culture" or "cultural", often seen in cultural diplomacy or cultural war concepts) - 656
+pp (Could be part of "app" (as in digital apps for social media), used in cyber warfare) - 666
+of (English: "of", relevant for titles and headlines in media coverage) - 668
+lise (French suffix but also part of "analyse" or "realise", crucial in data analysis and war analytics) - 673
+fra (Possibly part of "France" or "Frau" (German: "woman"), relevant in geopolitical actor roles) - 650
+freedom (Core term in discussions of freedom and liberty in the context of war) - 672
+sicher (German: "secure" or "safe", relevant in discussions of security and safety) - 684
+möglich (German: "possible", as in "mögliche Lösung" = "possible solution" to the war) - 670
+freiheit (German: "freedom", as in "Freiheitskampf" = "freedom struggle" or "Freiheit" = "freedom") - 672
+tique (French: Part of "politique" = "politics", directly relevant to the war) - 740
+kiew (German for Kyiv, the capital of Ukraine) - 650
+tv (Television, relevant in media broadcasts and propaganda) - 656
+ga (Likely related to Gazprom (the Russian energy company), central to energy supply and sanctions) - 685
+ku (Part of "Kunst" (art) or "Kuwait" (geopolitically relevant)) - 670
+isieren (German suffix but crucial in "militarisieren" = "militarize" or "mobilisieren" = "mobilize", key war-related concepts) - 649
+feld (German: "field", often used in battlefield = "Schlachtfeld" or Kriegsfeld = "warfield") - 648
+rise (English: "rise", often linked to "crisis" or "price rise") - 644
+politi (Part of "politik" = "politics" or "politische" = "political", directly relevant to the war) - 640
+partner (English/German: "partner", often linked to "strategic partners" or "alliance partners") - 637
+union (English: "European Union (EU)" or "trade union", key actor in war-related diplomacy) - 636
+geld (German: "money", linked to war financing, sanctions, and humanitarian aid) - 636
+wiesen (Part of "hinweisen" = "to indicate" or "anweisen" = "to instruct", relevant in political directives or legal guidelines) - 635
+tage (German: "days", often used in "Konferenztage" = "conference days" or "Flüchtlingstage" = "refugee days") - 635
+nski (Suffix found in Slavic names like Zelenskyy, the president of Ukraine) - 634
+del (Part of "Handel" = "trade" or "Modell" = "model", relevant in discussions of trade sanctions and economic models) - 633
+ry (Suffix but also part of "military" or "victory", directly relevant to war) - 632
+red (Could be part of "Red Cross" or linked to media terminology as in "red alert" or "red flag") - 631
+ow (Suffix found in Slavic names like Medvedev or Berdyanskow, relevant to political figures or places) - 629
+tausch (German: "exchange" or "swap", as in "Gefangenentausch" = "prisoner exchange" or "Warentausch" = "goods exchange") - 629
+störung (German: "disruption" or "interruption", relevant to discussions of supply chain disruption and infrastructure disruptions) - 627
+chef (German: "chief" or "head", as in "Redaktionschef" = "editor-in-chief" or "Militärchef" = "military chief") - 627
+ration (Part of "rationing", directly relevant in wartime food rationing or energy rationing) - 625
+cr (Could relate to "crisis" or "critical", both central to war-related terminology) - 625
+expert (English/German: "expert", linked to war experts, military experts, and economic experts providing analysis) - 622
+flug (German: "flight" or "airplane", used in "Kriegsflug" = "war flight" or "Flugzeug" = "airplane" linked to aerial warfare) - 620
+erte (Part of "Werte" = "values" in German, often linked to "human values" or "democratic values") - 620
+bauen (German: "to build" or "to construct", as in "Waffenfabrik bauen" = "build a weapons factory" or "Koalition bauen" = "build a coalition") - 621
+que (French: Part of "politique" = "politics" or "attaque" = "attack", both relevant) - 621
+stände (German: "conditions" or "circumstances", often seen in "Kriegszustände" = "war conditions") - 639
+partner (English: "partner", linked to "military partners", "strategic partners", or "alliance partners") - 637
+all (English: "all", often used in "all-out war" or "all nations" in international contexts) - 637
+politische (German: "political", directly relevant to political discourse) - 640
+freie (German: "free" or "independent", as in "freie Presse" = "free press" or "freie Marktwirtschaft" = "free market economy") - 672
+chef (German: "chief" or "head", as in "Militärchef" = "military chief" or "Redaktionschef" = "editor-in-chief") - 627
+flug (German: "flight" or "airplane", linked to aerial warfare and airstrikes) - 620
+par (Could relate to "Parliament" (as in "EU Parliament") or "Partnership" in international agreements) - 648
+feld (German: "field", relevant in "Schlachtfeld" = "battlefield" and "Kriegsfeld" = "warfield") - 648
+is (Part of "ISIS", linked to terrorism and international security concerns) - 649
+cr (Part of "crisis" or "critical", directly relevant to war and conflict) - 625
+expert (English: "expert", linked to war experts and military analysts) - 622
+ration (Part of "rationing", linked to wartime rationing of food and energy) - 625
+tausch (German: "exchange" or "swap", often linked to "prisoner exchange" or "trade exchange") - 629
+störung (German: "disruption", linked to supply chain disruption and infrastructure disruptions due to war) - 627
+chef (German: "chief" or "head", as in "Militärchef" = "military chief" or "Polizeichef" = "police chief") - 627
+leichzeitig (German: "simultaneously" or "at the same time", used in military operations and war timing strategies) - 625
+ration (Related to "rationing", seen in energy rationing and food rationing during wartime) - 625
+expert (Refers to military experts, economic experts, and war analysts) - 622
+red (Could relate to "Red Cross", which plays a role in humanitarian aid during the war) - 631
+ry (Suffix but could be part of "military", directly linked to the war) - 632
+nski (Slavic suffix found in names like Zelenskyy, the president of Ukraine) - 634
+politi (Part of "politics" or "political", central to war diplomacy and geopolitical analysis) - 640
+union (Reference to European Union (EU), one of the most prominent actors in the war) - 636
+feld (German: "field", seen in "Schlachtfeld" = "battlefield") - 648
+wiesen (German: Part of "anweisen" = "to instruct" or "hinweisen" = "to indicate", relevant to official statements and political directives) - 635
+pflicht (German: "duty" or "obligation", relevant in discussions of military conscription and civic duty during wartime) - 619
+stehen (German: "to stand" or "to be", but more importantly seen in "bereitstehen" = "stand ready" in military readiness) - 619
+legen (German: "to lay" or "to place", but in context relevant in "offenlegen" = "to disclose" or "darlegen" = "to present" evidence in war tribunals) - 618
+gabe (German: Part of "Abgabe" = "contribution" or "Vorgabe" = "requirement", relevant in war reparations and economic policy) - 618
+information (English/German: "information", crucial in information warfare, intelligence and media narratives) - 616
+bürger (German: "citizen", crucial in discussions on civil rights and citizen mobilization during war) - 614
+Gipfel (German: "summit", often seen in "Friedensgipfel" = "peace summit" or "EU-Gipfel" = "EU summit", key to diplomatic negotiations) - 614
+opération (French: "operation", relevant in discussions of military operations and special operations) - 614
+klärung (German: "clarification" or "explanation", seen in "Aufklärung" = "reconnaissance" or "intelligence gathering" in war) - 613
+gewalt (German: "violence" or "force", relevant in discussions of police violence, war violence, and use of force in conflict) - 611
+demokrat (German: "democrat" or part of "Demokratie" = "democracy", directly relevant to democratic ideals and regime change discussions) - 609
+bürger (German: "citizen", relevant in civil resistance and refugee movements) - 614
+opération (French: "operation", linked to military operations and special operations) - 614
+krise (German: "crisis", directly relevant to discussions on the Ukraine crisis, refugee crisis, and energy crisis) - 644
+fähig (German: "capable" or "able", but more importantly seen in "verteidigungsfähig" = "capable of defense" or "handlungsfähig" = "capable of action" in war-related discussions) - 606
+gipfel (German: "summit", crucial in discussions of diplomatic summits and peace negotiations) - 614
+buro (German: "office" or "bureau", often seen in "Kriegsbüro" = "war office" or "Pressebüro" = "press office") - 595
+gewalt (German: "violence" or "force", as in "Polizeigewalt" = "police violence" or "Staatsgewalt" = "state power/force") - 611
+demokrat (German: Part of "Demokrat" = "democrat" or "Demokratie" = "democracy", crucial to discussions of regime change and democratic transitions) - 609
+gewalt (German: "violence" or "force", as seen in "Gewaltanwendung" = "use of force") - 611
+opération (French: "operation", relevant to military operations and peacekeeping operations) - 614
+front (English/German: "front" as in military front or frontline, crucial to war strategy) - 599
+wandel (German: "change" or "transformation", often seen in "Zeitenwandel" = "change of times" or "politischer Wandel" = "political change") - 597
+view (English: "view", relevant in "worldview", public view, and media analysis of the war) - 596
+büro (German: "office" or "bureau", relevant to "Kriegsbüro" = "war office" or "Pressebüro" = "press office") - 595
+fort (French: "strong" or "fortress", but also seen in "Fort" (as in military forts)) - 595
+grün (German: "green", but could relate to Green Party (Die Grünen) in Germany, a key player in environmental diplomacy and sanctions on Russia) - 595
+länder (German: "countries" or "states", relevant in discussions of EU member states and federal states) - 594
+ff (Part of "Waffen" = "weapons" or "Angriff" = "attack", linked to arms and military aggression) - 594
+nce (Part of "violence", "independence", or "resilience", all relevant war-related concepts) - 594
+information (Crucial in discussions of information warfare, propaganda, and disinformation) - 616
+bürger (German: "citizen", relevant to discussions of civil resistance and refugee movements) - 614
+front (German/English: "front", used in "military frontlines" and "eastern front") - 599
+demokrat (Part of "democracy" or "democratic transition", crucial to discussions of regime change and political reform in the war) - 609
+gewalt (German: "violence" or "force", seen in "Polizeigewalt" = "police violence" and "Staatsgewalt" = "state power/force") - 611
+störung (German: "disruption" or "interruption", linked to supply chain disruption and infrastructure disruptions due to war) - 627
+bürger (German: "citizen", directly relevant in discussions of civil resistance and refugee crises) - 614
+klärung (German: "clarification" or "intelligence", as in "Aufklärung" = "reconnaissance" or "clarification of political position") - 613
+opération (French: "operation", linked to military operations and special operations) - 614
+link (Part of "links" or "left" (political context) or part of "weblinks" relevant to media analysis) - 611
+gewalt (German: "violence" or "force", relevant in "Staatsgewalt" = "state force" or "Polizeigewalt" = "police violence") - 611
+gewalt (German: "violence" or "force", as in "Gewaltanwendung" = "use of force" and "Staatsgewalt" = "state power/force") - 611
+bürger (German: "citizen", seen in discussions of civil movements and refugee crises) - 614
+gewalt (German: "violence" or "force", seen in "Staatsgewalt" = "state power" and "Gewaltanwendung" = "use of force") - 611
+demokrat (German: "democrat" or part of "Demokratie" = "democracy", relevant in regime change and democratization) - 609
+kä (Part of "kämpfen" = "to fight", directly relevant to military combat) - 619
+wandel (German: "change", often seen in "political change" and "Zeitenwandel" = "change of times") - 597
+fort (Part of military forts and fortified positions) - 595
+schuld (German: "debt" or "guilt", relevant to war reparations, debt obligations, or responsibility for war crimes) - 588
+mark (Could relate to "market", "landmark", or "trade market", relevant to energy markets and global commodities) - 588
+info (English/German: "information", crucial in discussions of information warfare and propaganda during war) - 581
+blog (Online blogs are key sources of independent reporting and citizen journalism during the war) - 580
+achtung (German: "attention" or "caution", often seen in "Achtung Warnung" = "warning alert", linked to wartime warnings) - 579
+rup (Part of "disruption", seen in discussions of supply chain disruptions and infrastructure disruptions during the war) - 578
+fest (German: "firm" or "solid", but also linked to "festhalten" = "to hold on to" or "Festnahme" = "arrest/detention" of political or military figures) - 578
+nung (German suffix but also part of "Verurteilung" = "conviction" or "Ernennung" = "appointment", both relevant to war tribunals and leadership roles) - 576
+geben (German: "to give" or "to provide", seen in "Befehl geben" = "to give an order" or "Unterstützung geben" = "to provide support" in war) - 575
+aktion (German: "action" or "campaign", used in "Militäraktion" = "military action" or "Sanktionsaktion" = "sanction action") - 575
+solid (English: "solid", relevant in contexts like "solidarity", "solid foundation", or "solid alliances" among NATO and EU) - 575
+schluss (German: "conclusion" or "closure", seen in "Waffenstillstandsschluss" = "ceasefire agreement" or "Vertragsschluss" = "conclusion of a treaty") - 574
+treiben (German: "to drive" or "to push", as in "Kriegstreiber" = "war-monger" or "Handel treiben" = "to engage in trade") - 573
+gaben (German: "contributions" or "allocations", as in "Hilfsgaben" = "aid contributions" or "finanzielle Gaben" = "financial contributions" to support Ukraine) - 573
+blatt (German: "sheet" or "newspaper", often used in media references like "Tagesblatt" = "daily newspaper") - 570
+weise (German: "manner" or "way", often seen in "auf diese Weise" = "in this manner" or "Weise der Kriegführung" = "way of conducting war") - 569
+lands (Part of "homelands" or "lands" like borderlands in Ukraine's territorial disputes) - 566
+reise (German: "journey" or "travel", but also relevant in "Kriegsreise" = "war journey" or "Diplomatenreise" = "diplomatic trip") - 565
+tor (German: "gate" or "goal", as in "Schutztor" = "protective gate" or "Verhandlungstor" = "negotiation gateway") - 564
+hjælp (Danish: "help" or "aid", directly relevant to humanitarian aid or foreign aid for Ukraine) - 562
+ture (Suffix but could relate to "infrastructure", a key concept in discussions of war damage and infrastructure resilience) - 562
+ique (French: Part of "politique" = "politics" or "critique" = "critique", relevant in discussions of political strategy and criticism of the war) - 562
+str (Part of "strategy" or "structure", both of which are central to military and diplomatic contexts) - 572
+fel (Part of "Schlachtfeld" = "battlefield" in German, directly linked to war strategy) - 573
+akte (German: "file" or "dossier", relevant in war dossiers and legal documents related to war tribunals) - 575
+po (Part of "politics" or "policy", directly relevant to war-related decisions and diplomacy) - 596
+wandel (German: "change" or "transformation", used in "politischer Wandel" = "political change" and "Zeitenwandel" = "change of times") - 597
+mark (Could refer to "market" as in energy markets or commodity markets impacted by the war) - 588
+schuld (German: "debt" or "guilt", directly relevant to discussions on war reparations, responsibility for war crimes, and economic debt from war) - 588
+info (Short for "information", linked to information warfare and disinformation campaigns) - 581
+aktion (German: "action" or "campaign", seen in "military action" or "sanctions action") - 575
+solid (Linked to "solidarity", as in NATO and EU solidarity with Ukraine) - 575
+schluss (German: "conclusion" or "end", relevant in "ceasefire agreements" or "treaty conclusion") - 574
+gabe (German: "allocation" or "contribution", used in "Hilfsgabe" = "aid contribution") - 618
+blatt (German: "newspaper", relevant in media coverage of the war, as in "Tagesblatt" = "daily newspaper") - 570
+weise (German: "manner" or "way", relevant in "Weise der Kriegführung" = "way of conducting war") - 569
+reisen (German: "travels" or "diplomatic trips", as in "Diplomatenreise" = "diplomatic trip" or "Verhandlungsreise" = "negotiation trip") - 565
+tor (German: "gate" or "portal", relevant in diplomatic negotiations and borders as in "Grenztor" = "border gate") - 564
+po (Part of "politics" or "policy", directly relevant in discussions of geopolitical strategies) - 596
+land (Part of "homeland" or "borderland", directly relevant to the territorial dispute in Ukraine's borderlands) - 566
+hjælp (Danish: "help" or "aid", directly linked to humanitarian aid to Ukraine) - 562
+ture (Part of "infrastructure", directly linked to discussions on infrastructure damage from war) - 562
+ique (French: Part of "politique" = "politics", relevant in diplomatic strategy) - 562
+str (Could relate to "strategy", "strength", or "structure", key to military strategy) - 572
+fel (Part of "Schlachtfeld" = "battlefield", directly linked to war strategy and battle positioning) - 573
+gewinn (German: "profit" or "gain", relevant to economic gains from arms trade or war profiteering) - 561
+stoff (German: "material" or "substance", relevant in energy discussions like Brennstoff = "fuel" or Stoffversorgung = "material supply") - 561
+sprache (German: "language", relevant to discussions of linguistic policies and multilingual communications in war zones) - 561
+Chef (German: "chief" or "head", used in Militärchef = "military chief" or Regierungschef = "head of government") - 560
+wegen (German: "because of" or "due to", often used in headlines about war causes or reasoning for sanctions) - 560
+drück (Part of "unterdrücken" = "to suppress" or "Druck" = "pressure", relevant in political oppression or economic pressure) - 560
+fach (German: "field" or "sector", relevant in discussions of field operations or economic sectors affected by war) - 559
+wert (German: "value" or "worth", linked to currency values and economic impact of the war) - 559
+gruppe (German: "group", often linked to "militärische Gruppe" = "military group" or "Widerstandsgruppe" = "resistance group") - 557
+berg (German: "mountain" but also seen in place names like Lemberg (Lviv in Ukraine) or Kahlenberg (historical site of battles)) - 557
+gegriffen (German: "seized" or "grasped", often seen in "militärisch ergriffen" = "militarily seized") - 554
+kung (Part of "Bekräftigung" = "reaffirmation" or "Verkündung" = "proclamation", relevant to legal rulings or public announcements) - 554
+gangen (Part of "herausgegangen" = "to go out" or "vorangegangen" = "preceding", used in war context like preceding events) - 554
+NATO (International military alliance directly involved in the Ukraine-Russia war) - 549
+sekretär (German: "secretary", as in "UN-Generalsekretär" = "UN Secretary-General" or "Verteidigungssekretär" = "Defense Secretary") - 548
+deutsche (German: "German", relevant as Germany is a key player in the Ukraine war and EU sanctions) - 547
+mission (English/French/German: "mission", often linked to peacekeeping missions, diplomatic missions, or military missions) - 545
+État (French: "state", crucial in discussions of state actors, state control, and state involvement in war) - 545
+Energ (Part of "Energie" = "energy" in German, crucial in discussions on energy security and energy dependency on Russia) - 545
+legt (German: "lays" or "puts", often used in "darlegen" = "to present" or "offenlegt" = "disclose", relevant to disclosures in media and legal tribunals) - 544
+stream (Related to livestreams or online streaming of war footage and war reports) - 543
+führung (German: "leadership" or "management", seen in "Kriegsführung" = "war leadership" or "militärische Führung" = "military leadership") - 520
+fähigkeit (German: "ability" or "capacity", crucial in "Verteidigungsfähigkeit" = "defense capability" or "Handlungsfähigkeit" = "capability to act") - 528
+bat (Part of "combat", directly relevant to military operations and military combat) - 528
+spiel (German: "game" or "play", but also seen in "Machtspiel" = "power play" or "Kriegsspiel" = "war game") - 527
+press (English: "press", relevant in discussions of press freedom, media coverage, and media narratives) - 527
+medi (Part of "media" or "mediate", directly relevant to media coverage and conflict mediation) - 527
+urs (Part of "Ursache" = "cause" in German, often seen in "Kriegsursache" = "cause of the war") - 526
+flu (Part of "Flucht" = "flight" (as in refugee movements) or "Flug" = "flight/airplane", linked to aerial warfare and evacuations) - 525
+europe (English: Refers to Europe, central to the Ukraine war and EU sanctions) - 525
+verlässlich (German: "reliable" or "dependable", used in "verlässliche Partner" = "reliable partners" in NATO and EU discussions) - 525
+unterstützung (German: "support", relevant in humanitarian support, military support, and economic support for Ukraine) - 524
+vermögen (German: "wealth" or "assets", crucial in discussions of seized assets and wealth sanctions on Russian oligarchs) - 524
+kom (Part of "Kommission" = "commission", often referring to the European Commission or war tribunals) - 523
+jahr (German: "year", relevant in timeline analysis and tracking of key war events) - 523
+fallen (German: "fallen" or "casualties", crucial in discussions of war casualties and loss of life) - 523
+maß (German: "measure" or "extent", often seen in "Sicherheitsmaßnahmen" = "security measures" or "Maßnahmen" = "measures/sanctions") - 523
+führung (German: "leadership" or "command", seen in "Militärführung" = "military leadership" and "Führungspersönlichkeit" = "leadership personality") - 520
+ruf (German: "call" or "reputation", relevant in "Schlachtaufruf" = "call to arms" or "Ruf nach Hilfe" = "call for help") - 519
+pan (Part of "Panzer" = "tank" in German, directly linked to tank warfare) - 519
+arbeiten (German: "to work" or "to operate", seen in "Kooperationsarbeit" = "cooperation work" and "Regierungsarbeit" = "government work") - 519
+führung (German: "leadership" or "command", used in military leadership or state leadership during war) - 520
+press (English: "press", linked to media freedom, media narratives, and press coverage of the war) - 527
+bat (Part of "combat", directly linked to military combat and combat operations) - 528
+urs (Part of "Ursache" = "cause", used in "Ursache des Krieges" = "cause of war") - 526
+flu (Part of "Flucht" = "refugee movement" or "Flug" = "flight" (airplanes), linked to aerial warfare and evacuations) - 525
+europe (Refers to Europe, crucial actor in the Ukraine-Russia war) - 525
+État (French: "state", directly relevant in discussions of state actors, state control, and state decisions in war) - 545
+Energ (Part of "Energie" = "energy" in German, linked to energy dependency, energy security, and energy sanctions during the war) - 545
+legt (German: "lays" or "puts", used in "darlegen" = "to present" or "offenlegen" = "to disclose", often linked to media disclosures or legal tribunals) - 544
+Stream (Linked to livestreaming or media broadcasts of war footage and war-related news) - 543
+stimmt (German: "agrees" or "votes", often used in parliamentary votes or referendum votes on war policies) - 524
+vermögen (German: "wealth" or "assets", directly relevant to discussions on seized assets from sanctioned oligarchs) - 524
+führung (German: "leadership" or "command", seen in military command or political leadership during the war) - 520
+franc (French: "franc" or reference to France, which is a major actor in the Ukraine-Russia war) - 520
+ruf (German: "call" or "reputation", seen in "Ruf nach Frieden" = "call for peace" or "Schlachtaufruf" = "call to arms") - 519
+Pan (Likely refers to Panzer (German: "tank"), a direct reference to tank warfare and military equipment) - 519
+arbeiten (German: "to work" or "to operate", seen in "Kooperationsarbeit" = "cooperation work" and "Regierungsarbeit" = "government work") - 519
+führung (German: "leadership" or "command", linked to military command or state leadership during war) - 520
+press (English: "press", relevant in discussions of media freedom, media narratives, and press coverage of the war) - 527
+bat (Part of "combat", directly linked to military combat and combat operations) - 528
+urs (German: "cause" or "reason", seen in "Kriegsursache" = "cause of war" or "Fluchtursache" = "cause of migration") - 526
+flu (Part of "Flucht" = "refugee flight" or "Flug" = "flight/airplane", linked to aerial warfare and refugee evacuations) - 525
+europe (English: "Europe", crucial to the context of the Ukraine war and EU sanctions) - 525
+unterstützung (German: "support", directly relevant in humanitarian support, military support, and financial support for Ukraine) - 524
+vermögen (German: "wealth" or "assets", relevant to seized assets and oligarch sanctions) - 524
+kom (Part of "Kommission" = "commission", often linked to the European Commission or war tribunals) - 523
+jahr (German: "year", crucial in timeline analysis and tracking milestones in the Ukraine-Russia war) - 523
+fallen (German: "fallen" or "casualties", directly related to war casualties and loss of life) - 523
+maß (German: "measure" or "extent", seen in "Maßnahmen" = "measures" or "Sicherheitsmaßnahmen" = "security measures") - 523
+führung (German: "leadership" or "command", linked to military leadership or state leadership during war) - 520
+ruf (German: "call" or "reputation", used in "call to arms" or "public calls for action") - 519
+press (English: "press", linked to media coverage and journalistic reporting on the war) - 527
+bat (Part of "combat", directly linked to military combat and combat strategy) - 528
+urs (Part of "Ursache" = "cause", used in "Kriegsursache" = "cause of war") - 526
+flu (Part of "Flucht" = "refugee flight" or "Flug" = "flight/airplane", linked to aerial warfare and civilian evacuations) - 525
+europe (Refers to Europe, one of the major actors in the Ukraine-Russia war) - 525
+kom (Part of "Kommission" = "commission", often linked to the European Commission or war-related commissions) - 523
+jahr (German: "year", crucial to timeline analysis and tracking milestones in the Ukraine-Russia war) - 523
+fallen (German: "fallen" or "casualties", directly related to war casualties and loss of life) - 523
+maß (German: "measure" or "extent", often seen in "Maßnahmen" = "measures" related to sanctions and security measures) - 523
+führung (German: "leadership" or "command", linked to military command and political leadership during war) - 520
+ruf (German: "call" or "reputation", seen in "Schlachtaufruf" = "call to arms" and "call for help") - 519
+pan (Part of "Panzer" = "tank", directly linked to tank warfare and armored combat) - 519
+arbeiten (German: "to work" or "to operate", seen in "Kooperationsarbeit" = "cooperation work" and "Regierungsarbeit" = "government work") - 519
+führung (German: "leadership" or "command", directly linked to military command and state leadership during war) - 520
+press (English: "press", linked to media freedom, media narratives, and press coverage of the war) - 527
+bat (Part of "combat", directly linked to military combat operations) - 528
+urs (Part of "Ursache" = "cause", used in "Ursache des Krieges" = "cause of war") - 526
+flu (Part of "Flucht" = "refugee flight" or "Flug" = "flight/airplane", linked to aerial warfare and refugee evacuations) - 525
+europe (Refers to Europe, crucial actor in the Ukraine-Russia war) - 525
+stäbe (German: "staff" or "headquarters", often linked to military staff or command staff for war operations) - 537
+stimmt (German: "votes" or "agrees", crucial in parliamentary votes and diplomatic votes for international resolutions) - 524
+Pan (Short for "Panzer" = "tank", linked to tank warfare and armored combat) - 519
+ruf (German: "call" or "reputation", used in "call for action" and "call for arms") - 519
+flu (Linked to refugee flight or aerial flights for evacuation) - 525
+europe (Crucial actor in EU-related war strategies and European sanctions on Russia) - 525
