@@ -140,21 +140,6 @@ function renderCombinedTimeline() {
                     display: true,
                     position: 'left',
                     title: { display: true, text: 'Total Interactions' }
-                },
-                y1: {
-                    type: 'linear',
-                    display: true,
-                    position: 'right',
-                    grid: { drawOnChartArea: false },
-                    title: { display: true, text: 'Global Events' }
-                },
-                y2: {
-                    type: 'linear',
-                    display: true,
-                    position: 'right',
-                    grid: { drawOnChartArea: false },
-                    title: { display: true, text: 'Ukraine War Events' },
-                    ticks: { color: 'orange' }
                 }
             }
         }

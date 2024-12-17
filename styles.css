@@ -119,6 +119,34 @@ h1 {
     box-shadow: 0 8px 12px rgba(0, 0, 0, 0.1);
 }
 
+/* Footer Styles */
+#site-footer {
+    background: linear-gradient(90deg, #0057b8, #ffd700); /* Ukraine flag colors */
+    color: #fff;
+    text-align: center;
+    padding: 20px 10px;
+    box-shadow: 0 -4px 8px rgba(0, 0, 0, 0.1);
+    border-top: 5px solid #f8e473; /* Matches site theme */
+    font-size: 0.9rem;
+}
+
+#site-footer .footer-content {
+    max-width: 850px;
+    margin: 0 auto;
+    line-height: 1.6;
+}
+
+#site-footer a {
+    color: #f8e473;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+#site-footer a:hover {
+    color: #ffd700;
+}
+
 /* Animations */
 @keyframes fadeIn {
     from {
